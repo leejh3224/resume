@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leejh3224.github.io",
+  "homepage": "https://leejh3224.github.io/gh-pages",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
