@@ -148,6 +148,8 @@ export default {
   display: grid;
   grid-template-columns: 1fr 2fr;
   padding: 1.5rem;
+  max-width: 860px;
+  margin: 0 auto;
 }
 
 .left-side .social-link {
