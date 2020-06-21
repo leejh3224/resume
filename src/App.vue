@@ -110,7 +110,7 @@ export default {
     async downloadPdf() {
       this.isDownloading = true;
       try {
-        const res = await fetch('https://ovgb1l0a0d.execute-api.us-east-1.amazonaws.com/dev/resume')
+        const res = await fetch('https://ovgb1l0a0d.execute-api.us-east-1.amazonaws.com/prod/resume')
         const body = new Blob([await res.blob()], { type: 'application/pdf' })
         const link = document.createElement('a')
         link.setAttribute('download', 'resume.pdf')
