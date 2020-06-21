@@ -181,7 +181,7 @@ export default {
 }
 
 .section-projects {
-  margin-top: 40px;
+  margin-top: 32px;
 }
 
 .section-projects > p:nth-of-type(1){
