@@ -1,6 +1,6 @@
 # Resume
 
-Javascript Developer Resume ([link](https://leejh3224.github.io/resume/))
+Javascript Developer Resume in Vue.js ([link](https://leejh3224.github.io/resume/))
 
 ## Getting Started
 
