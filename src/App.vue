@@ -81,14 +81,20 @@
           <h3>Open Source / Projects</h3>
           <p class="quote">모든 프로젝트는 깃허브에서 확인할 수 있습니다.</p>
           <ul>
-            <li>Airbnb Reminder v1, v2 (Typescript)</li>
-            <li>헬로우톡 클론 (React Native)</li>
-            <li>Kini (Flutter, Playstore)</li>
             <li>
-              Tables-to-go <a target="_blank" href="https://github.com/fraenky8/tables-to-go/pull/30">file name 변경 기능 PR</a>
+              Typescript로 만든 Airbnb Reminder v1, v2 <a target="_blank" href="https://github.com/leejh3224/autobnb">링크</a>
             </li>
             <li>
-              Graphql-code-generator <a target="_blank" href="https://github.com/dotansimha/graphql-code-generator/pull/4181">type-graphql 코드 생성 시 제대로 타입이 지정되지 않는 버그 PR</a>
+              React Native로 만든 HelloTalk 클론 프로젝트 <a target="_blank" href="https://github.com/leejh3224/react-native-hello-talk">링크</a>
+            </li>
+            <li>
+              Flutter로 만든 다이어트 일기앱, Kini on <a target="_blank" href="https://play.google.com/store/apps/details?id=com.gompro.kini">Playstore</a>
+            </li>
+            <li>
+              Tables-to-go (Go) <a target="_blank" href="https://github.com/fraenky8/tables-to-go/pull/30">file name 변경 기능 PR</a>
+            </li>
+            <li>
+              Graphql-code-generator (Typescript) <a target="_blank" href="https://github.com/dotansimha/graphql-code-generator/pull/4181">type-graphql 코드 생성 시 제대로 타입이 지정되지 않는 버그 PR</a>
             </li>
           </ul>
         </div>
