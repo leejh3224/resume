@@ -1,4 +1,4 @@
-# Who-am-i
+# Who am I
 
 Javascript Developer Resume in Vue.js ([link](https://leejh3224.github.io/resume/))
 
