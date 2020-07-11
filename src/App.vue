@@ -84,8 +84,12 @@
             <li>Airbnb Reminder v1, v2 (Typescript)</li>
             <li>헬로우톡 클론 (React Native)</li>
             <li>Kini (Flutter, Playstore)</li>
-            <li>Tables-to-go file name 변경 기능 PR</li>
-            <li>Graphql-code-gen type-graphql 코드 생성 시 제대로 타입이 지정되지 않는 버그 PR</li>
+            <li>
+              Tables-to-go <a target="_blank" href="https://github.com/fraenky8/tables-to-go/pull/30">file name 변경 기능 PR</a>
+            </li>
+            <li>
+              Graphql-code-generator <a target="_blank" href="https://github.com/dotansimha/graphql-code-generator/pull/4181">type-graphql 코드 생성 시 제대로 타입이 지정되지 않는 버그 PR</a>
+            </li>
           </ul>
         </div>
       </div>
