@@ -172,6 +172,20 @@ export default {
   margin: 0 auto;
 }
 
+@media (max-width: 600px) {
+  .header-title-box {
+    width: 100%;
+  }
+
+  .body {
+    grid-template-columns: 1fr;
+  }
+  
+  .left-side {
+    display: none;
+  }
+}
+
 .left-side .social-link {
   display: flex;
   align-items: center;
