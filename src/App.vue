@@ -57,7 +57,8 @@
           <ul>
             <li>어드민 시스템 (C#) 유지보수</li>
             <li>임대마스터 프로젝트 프론트 페이지 및 api 서버 개발 (2019.10 ~ 2019.12)</li>
-            <li>050 안심번호 시스템 유지보수</li>
+            <li>050 안심번호 시스템 유지보수/신규 기능 추가</li>
+            <li>통합 테스트를 위한 cli 프로그램 개발</li>
             <li>클라이언트 api (apis-v2) 유지보수</li>
             <li>공실 어드민 사이트 개편 2019.12 ~ 2020.01</li>
             <li>직방홈 프로젝트 api 서버 개발 및 테스트 작성 (2020.04 ~ 2020.06)</li>
@@ -77,8 +78,23 @@
             <li>Typescript 및 테스팅 도입</li>
           </ul>
         </div>
+        <div class="section-opensource">
+          <h3>Open Source</h3>
+          <li>
+            Tables-to-go (Go)
+            <br /><a style="padding-left: 40px;" target="_blank" href="https://github.com/fraenky8/tables-to-go/pull/30">file name 변경 기능 PR</a>
+          </li>
+          <li>
+            Graphql-code-generator (Typescript)
+            <br /><a style="padding-left: 40px;" target="_blank" href="https://github.com/dotansimha/graphql-code-generator/pull/4181">type-graphql 코드 생성 시 제대로 타입이 지정되지 않는 버그 PR</a>
+          </li>
+          <li>
+            Testdeck (Typescript)
+            <br /><a style="padding-left: 40px;" target="_blank" href="https://github.com/testdeck/testdeck/pull/277">test hook 사용 시 발생하는 버그 PR</a>
+          </li>
+        </div>
         <div class="section-projects">
-          <h3>Open Source / Projects</h3>
+          <h3>Projects</h3>
           <p class="quote">모든 프로젝트는 깃허브에서 확인할 수 있습니다.</p>
           <ul>
             <li>
@@ -89,12 +105,6 @@
             </li>
             <li>
               Flutter로 만든 다이어트 일기앱, Kini on <a target="_blank" href="https://play.google.com/store/apps/details?id=com.gompro.kini">Playstore</a>
-            </li>
-            <li>
-              Tables-to-go (Go) <a target="_blank" href="https://github.com/fraenky8/tables-to-go/pull/30">file name 변경 기능 PR</a>
-            </li>
-            <li>
-              Graphql-code-generator (Typescript) <a target="_blank" href="https://github.com/dotansimha/graphql-code-generator/pull/4181">type-graphql 코드 생성 시 제대로 타입이 지정되지 않는 버그 PR</a>
             </li>
           </ul>
         </div>
@@ -187,6 +197,14 @@ export default {
 }
 
 .section-work-experience > h3 {
+  margin-bottom: 4px;
+}
+
+.section-opensource {
+  margin-top: 32px;
+}
+
+.section-opensource > h3 {
   margin-bottom: 4px;
 }
 
