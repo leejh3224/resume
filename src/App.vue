@@ -57,7 +57,7 @@
           <p style="margin-bottom: 8px;">- Typescript / Node.js / Nest.js / React.js (Next.js) / Jest (Testing)</p>
           <p>주요 업무</p>
           <ul>
-            <li>메시지 전송 시스템 개발 및 유지보수 (SMS/알림톡/이메일/슬랙 발송)</li>
+            <li>사내 공통 메시지 전송 라이브러리 개발 (SMS/알림톡/이메일/슬랙 발송)</li>
             <li><a href="https://lease.zigbang.com/register" target="_blank">임대마스터 프로젝트</a> 프론트 페이지 및 api 서버 개발 (2019.10 ~ 2019.12)</li>
             <li>통합 테스트를 위한 cli 프로그램 개발</li>
             <li>어드민 시스템 (C#) 유지보수</li>
