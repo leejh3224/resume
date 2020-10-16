@@ -3,7 +3,7 @@
     <div class="header">
       <div class="header-title-box">
         <h1>GOMPRO | 이준형</h1>
-        <h3>JAVASCRIPT DEVELOPER</h3>
+        <h3>JAVASCRIPT BACKEND DEVELOPER</h3>
       </div>
     </div>
     <div class="body">
@@ -53,12 +53,14 @@
           <h3>Work Experience</h3>
           <h4>직방</h4>
           <p>2019.08 ~ </p>
+          <p style="margin-top: 8px;">기술 스택</p>
+          <p style="margin-bottom: 8px;">- Typescript / Node.js / Nest.js / React.js (Next.js) / Jest (Testing)</p>
           <p>주요 업무</p>
           <ul>
-            <li>어드민 시스템 (C#) 유지보수</li>
-            <li>임대마스터 프로젝트 프론트 페이지 및 api 서버 개발 (2019.10 ~ 2019.12)</li>
-            <li>050 안심번호 시스템 유지보수/신규 기능 추가</li>
+            <li>메시지 전송 시스템 개발 및 유지보수 (SMS/알림톡/이메일/슬랙 발송)</li>
+            <li><a href="https://lease.zigbang.com/register" target="_blank">임대마스터 프로젝트</a> 프론트 페이지 및 api 서버 개발 (2019.10 ~ 2019.12)</li>
             <li>통합 테스트를 위한 cli 프로그램 개발</li>
+            <li>어드민 시스템 (C#) 유지보수</li>
             <li>클라이언트 api (apis-v2) 유지보수</li>
             <li>공실 어드민 사이트 개편 2019.12 ~ 2020.01</li>
             <li>직방홈 프로젝트 api 서버 개발 및 테스트 작성 (2020.04 ~ 2020.06)</li>
@@ -66,13 +68,14 @@
           </ul>
           <h4>공공공간(000gan)</h4>
           <p>2019.03 ~ 2019.08</p>
+          <p style="margin-top: 8px;">기술 스택</p>
+          <p style="margin-bottom: 8px;">- Javascript / Node.js / Express.js / Vue.js (Nuxt.js)</p>
           <p>주요 업무</p>
           <ul>
-            <li>쇼핑몰 오픈 (2019.03 ~ 2019.06)</li>
-            <li>결제 연동 (카카오페이 및 일반 카드 결제)</li>
-            <li>계좌 인증 및 실명 인증 시스템</li>
+            <li><a href="https://withgoods.net/" target="_blank">위드굿즈 프로젝트</a> 초기멤버로 합류, 사이트 런칭 (2019.03 ~ 2019.06)</li>
+            <li>결제 연동 (카카오페이 및 일반 카드 결제) 및 장바구니 시스템 개발</li>
+            <li>계좌 및 실명 인증 시스템 연동</li>
             <li>어드민 페이지</li>
-            <li>카트 시스템</li>
             <li>회원인증 및 소셜 로그인</li>
             <li>알림톡/문자 발송</li>
             <li>Typescript 및 테스팅 도입</li>
