@@ -97,8 +97,8 @@
           </li>
         </div>
         <div class="section-projects">
-          <h3>Projects</h3>
-          <p class="quote">모든 프로젝트는 깃허브에서 확인할 수 있습니다.</p>
+          <h3>Side Projects</h3>
+          <p class="quote">모든 사이드 프로젝트는 깃허브에서 확인할 수 있습니다.</p>
           <ul>
             <li>
               Typescript로 만든 Airbnb Reminder v1, v2 <a target="_blank" href="https://github.com/leejh3224/autobnb">링크</a>
