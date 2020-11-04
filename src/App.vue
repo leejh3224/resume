@@ -82,7 +82,7 @@
           </ul>
         </div>
         <div class="section-opensource">
-          <h3>Open Source</h3>
+          <h3>Open Source Contributions</h3>
           <li>
             Tables-to-go (Go)
             <br /><a style="padding-left: 40px;" target="_blank" href="https://github.com/fraenky8/tables-to-go/pull/30">file name 변경 기능 PR</a>
