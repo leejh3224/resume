@@ -3,7 +3,7 @@
     <div class="header">
       <div class="header-title-box">
         <h1>GOMPRO | 이준형</h1>
-        <h3>JAVASCRIPT BACKEND DEVELOPER</h3>
+        <h3>BACKEND DEVELOPER</h3>
       </div>
     </div>
     <div class="body">
