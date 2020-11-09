@@ -104,6 +104,9 @@
               Typescript로 만든 Airbnb Reminder v1, v2 <a target="_blank" href="https://github.com/leejh3224/autobnb">링크</a>
             </li>
             <li>
+              Java로 만든 Fastype (markdown 글 포스타입 블로그 업로더)<a target="_blank" href="https://github.com/leejh3224/fastype">링크</a>
+            </li>
+            <li>
               React Native로 만든 HelloTalk 클론 프로젝트 <a target="_blank" href="https://github.com/leejh3224/react-native-hello-talk">링크</a>
             </li>
             <li>
