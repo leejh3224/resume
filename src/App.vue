@@ -95,6 +95,10 @@
             Testdeck (Typescript)
             <br /><a style="padding-left: 40px;" target="_blank" href="https://github.com/testdeck/testdeck/pull/277">test hook 사용 시 발생하는 버그 PR</a>
           </li>
+          <li>
+            Yalc (Typescript)
+            <br /><a style="padding-left: 40px;" target="_blank" href="https://github.com/whitecolor/yalc/pull/141">`yalc add` 후 package.json의 indent가 유지되지 않는 버그 PR</a>
+          </li>
         </div>
         <div class="section-projects">
           <h3>Side Projects</h3>
