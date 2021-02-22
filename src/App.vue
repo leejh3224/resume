@@ -49,6 +49,20 @@
           <p>매일 프로의 자세로 개발에 임하고 있습니다.</p>
           <p>새로운 것들을 배우고 활용할 때 가장 큰 재미를 느끼는 개발자입니다.</p>
         </div>
+        <div>
+          <h3 style="margin-top: 2.5rem; margin-bottom: 0.5rem;">Skills</h3>
+          <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+            <i class="devicon devicon-typescript-plain colored"></i>
+            <i class="devicon devicon-nodejs-plain colored"></i>
+            <i class="devicon devicon-amazonwebservices-plain-wordmark colored"></i>
+            <i class="devicon devicon-mysql-plain-wordmark colored"></i>
+            <i class="devicon devicon-mongodb-plain-wordmark colored"></i>
+            <i class="devicon devicon-react-original-wordmark colored"></i>
+            <i class="devicon devicon-nestjs-plain-wordmark colored"></i>
+            <i class="devicon devicon-docker-plain-wordmark colored"></i>
+            <i class="devicon devicon-vuejs-plain-wordmark colored"></i>
+          </div>
+        </div>
         <div class="section-work-experience">
           <h3>Work Experience</h3>
           <h4>직방</h4>
@@ -57,13 +71,14 @@
           <p style="margin-bottom: 8px;">- Typescript / Node.js / Nest.js / React.js (Next.js) / Jest (Testing)</p>
           <p>주요 업무</p>
           <ul>
-            <li>사내 공통 메시지 전송 라이브러리 개발 (SMS/알림톡/이메일/슬랙 발송)</li>
+            <li>IO 어드민 프로젝트 서버 및 프론트 개발 (2020.12 ~ 2021.2)</li>
+            <li>직방홈 프로젝트 api 서버 개발 (2020.04 ~ 2020.06)</li>
+            <li>공실 어드민 사이트 개편 (2019.12 ~ 2020.01)</li>
             <li><a href="https://lease.zigbang.com/register" target="_blank">임대마스터 프로젝트</a> 프론트 페이지 및 api 서버 개발 (2019.10 ~ 2019.12)</li>
+            <li>사내 공통 메시지 전송 라이브러리 개발 (SMS/알림톡/이메일/슬랙 발송)</li>
             <li>통합 테스트를 위한 cli 프로그램 개발</li>
             <li>어드민 시스템 (C#) 유지보수</li>
             <li>클라이언트 api (apis-v2) 유지보수</li>
-            <li>공실 어드민 사이트 개편 2019.12 ~ 2020.01</li>
-            <li>직방홈 프로젝트 api 서버 개발 및 테스트 작성 (2020.04 ~ 2020.06)</li>
             <li>배치 프로그램 작성</li>
           </ul>
           <h4>공공공간(000gan)</h4>
@@ -105,16 +120,16 @@
           <p class="quote">모든 사이드 프로젝트는 깃허브에서 확인할 수 있습니다.</p>
           <ul>
             <li>
-              Typescript로 만든 Airbnb Reminder v1, v2 <a target="_blank" href="https://github.com/leejh3224/autobnb">링크</a>
+              Airbnb Reminder v1, v2 (Typescript) <a target="_blank" href="https://github.com/leejh3224/autobnb">링크</a>
             </li>
             <li>
-              Java로 만든 Fastype (markdown 글 포스타입 블로그 업로더)<a target="_blank" href="https://github.com/leejh3224/fastype">링크</a>
+              Bitrush, 가상화폐 트레이딩봇 (Python) <a target="_blank" href="https://github.com/leejh3224/bitrush">링크</a>
             </li>
             <li>
-              React Native로 만든 HelloTalk 클론 프로젝트 <a target="_blank" href="https://github.com/leejh3224/react-native-hello-talk">링크</a>
+             HelloTalk 클론 프로젝트 (React Native) <a target="_blank" href="https://github.com/leejh3224/react-native-hello-talk">링크</a>
             </li>
             <li>
-              Flutter로 만든 다이어트 일기앱, Kini on <a target="_blank" href="https://play.google.com/store/apps/details?id=com.gompro.kini">Playstore</a>
+              다이어트 일기앱, Kini (Flutter) on <a target="_blank" href="https://play.google.com/store/apps/details?id=com.gompro.kini">Playstore</a>
             </li>
           </ul>
         </div>
@@ -259,6 +274,10 @@ export default {
   min-width: 172px;
   display: flex;
   justify-content: center;
+}
+
+.devicon {
+  font-size: 5rem;
 }
 </style>
 
