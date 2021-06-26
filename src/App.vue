@@ -2,8 +2,8 @@
   <div>
     <div class="header">
       <div class="header-title-box">
-        <h1>GOMPRO | 이준형</h1>
-        <h3>BACKEND DEVELOPER</h3>
+        <h1>이준형 | GOMPRO</h1>
+        <h3>Node.js Backend Developer</h3>
       </div>
     </div>
     <div class="body">
@@ -44,56 +44,65 @@
         </div>
       </div>
       <div clsss="right-side">
-        <div>
-          <h3>Profile</h3>
-          <p>매일 프로의 자세로 개발에 임하고 있습니다.</p>
-          <p>새로운 것들을 배우고 활용할 때 가장 큰 재미를 느끼는 개발자입니다.</p>
-        </div>
-        <div>
-          <h3 style="margin-top: 2.5rem; margin-bottom: 0.5rem;">Skills</h3>
-          <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-            <i class="devicon devicon-typescript-plain colored"></i>
-            <i class="devicon devicon-nodejs-plain colored"></i>
-            <i class="devicon devicon-amazonwebservices-plain-wordmark colored"></i>
-            <i class="devicon devicon-mysql-plain-wordmark colored"></i>
-            <i class="devicon devicon-mongodb-plain-wordmark colored"></i>
-            <i class="devicon devicon-react-original-wordmark colored"></i>
-            <i class="devicon devicon-nestjs-plain-wordmark colored"></i>
-            <i class="devicon devicon-docker-plain-wordmark colored"></i>
-            <i class="devicon devicon-vuejs-plain-wordmark colored"></i>
-          </div>
-        </div>
         <div class="section-work-experience">
           <h3>Work Experience</h3>
           <h4>직방</h4>
           <p>2019.08 ~ </p>
-          <p style="margin-top: 8px;">기술 스택</p>
-          <p style="margin-bottom: 8px;">- Typescript / Node.js / Nest.js / React.js (Next.js) / Jest (Testing)</p>
-          <p>주요 업무</p>
-          <ul>
+          <h4 style="margin-top: 8px;">기술 스택</h4>
+          <p style="margin-bottom: 8px;">- Typescript / Node.js / Nest.js / Next.js (React.js)</p>
+          <h4 style="margin-top: 8px;">개발 환경</h4>
+          <p style="margin-bottom: 4px;">- AWS Lambda (serverless framework) / ECS</p>
+          <p style="margin-bottom: 4px;">- AWS ElasticSearch / RDB (MySQL) / DocumentDB (MongoDB) / ElastiCache (Redis) / SQS</p>
+          <p style="margin-bottom: 8px;">- CI/CD (Azure Pipelines)</p>
+          <h4>주요 업무</h4>
+          <ul style="margin-top: 4px">
+            <li>pay-gate api 개발 (2021.2 ~ 2021.5)</li>
+            <div>
+              <p>> 신한카드 연동 api 개발</p>
+              <p>> reverse-proxy nginx 셋업 / fluentd 연동 (log routing)</p>
+            </div>
             <li>IO 어드민 프로젝트 서버 및 프론트 개발 (2020.12 ~ 2021.2)</li>
-            <li>푸시 시스템 유지보수 (2020.9 ~ )</li>
-            <li>직방홈 프로젝트 api 서버 개발 (2020.04 ~ 2020.06)</li>
-            <li>공실 어드민 사이트 개편 (2019.12 ~ 2020.01)</li>
+            <div>
+              <p>> 어드민 프론트 페이지 개발 (Next.js)</p>
+              <p>> 내부 OAuth 인증 서버 연동</p>
+            </div>
+            <li>푸시 발송 시스템 유지보수 (2020.9 ~ )</li>
+            <div>
+              <p>> 발송 시스템 모니터링 배치 추가</p>
+            </div>
             <li><a href="https://lease.zigbang.com/register" target="_blank">임대마스터 프로젝트</a> 프론트 페이지 및 api 서버 개발 (2019.10 ~ 2019.12)</li>
-            <li>사내 공통 메시지 전송 라이브러리 개발 (SMS/알림톡/이메일/슬랙 발송)</li>
-            <li>통합 테스트를 위한 cli 프로그램 개발</li>
-            <li>어드민 시스템 (C#) 유지보수</li>
+            <div>
+              <p>> 프론트 페이지 개발 / 내부 컴포넌트 라이브러리 (Zuix) 사용</p>
+              <p>> api 개발 (Nest.js)</p>
+              <p>> 내부 OAuth 인증 서버 연동</p>
+            </div>
+            <li>사내 메시지 전송 api/라이브러리 개발 (SMS/알림톡/이메일/슬랙 발송)</li>
+            <div>
+              <p>> 발송 이력 관리 시스템 (RDB 및 ES에 저장)</p>
+              <P>> 벤더 이중화 작업 (이메일/알림톡/SMS)</p>
+              <p>> 통합 테스트를 위한 cli 프로그램 개발(Jest)</p>
+            </div>
+            <li>레거시 어드민 시스템 (C#) 유지보수</li>
             <li>클라이언트 api (apis-v2) 유지보수</li>
           </ul>
           <h4>공공공간(000gan)</h4>
           <p>2019.03 ~ 2019.08</p>
-          <p style="margin-top: 8px;">기술 스택</p>
-          <p style="margin-bottom: 8px;">- Javascript / Node.js / Express.js / Vue.js (Nuxt.js)</p>
-          <p>주요 업무</p>
-          <ul>
+          <h4 style="margin-top: 8px;">기술 스택</h4>
+          <p style="margin-bottom: 8px;">- Express.js (Node.js) / Nuxt.js (Vue.js)</p>
+          <h4 style="margin-top: 8px;">개발 환경</h4>
+          <p style="margin-bottom: 4px;">- AWS ElasticBeanstalk</p>
+          <p style="margin-bottom: 4px;">- RDB (MySQL)</p>
+          <h4>주요 업무</h4>
+          <ul style="margin-top: 4px">
             <li><a href="https://withgoods.net/" target="_blank">위드굿즈 프로젝트</a> 초기멤버로 합류, 사이트 런칭 (2019.03 ~ 2019.06)</li>
-            <li>결제 연동 (카카오페이 및 일반 카드 결제) 및 장바구니 시스템 개발</li>
-            <li>계좌 및 실명 인증 시스템 연동</li>
-            <li>어드민 페이지</li>
-            <li>회원인증 및 소셜 로그인</li>
-            <li>알림톡/문자 발송</li>
-            <li>Typescript 및 테스팅 도입</li>
+            <div>
+              <p>> 결제 연동 (카카오페이 및 일반 카드 결제) 및 장바구니 시스템 개발</p>
+              <p>> 계좌 및 실명 인증 시스템 연동 (nice 신용평가)</p>
+              <p>> 어드민 페이지 개발 (Nuxt.js)</p>
+              <p>> 회원인증 및 소셜 로그인 (Naver/Kakao 로그인)</p>
+              <p>> 알림톡/문자 발송</p>
+              <p>> Typescript / 테스트 프레임워크 (Jest) 도입</p>
+            </div>
           </ul>
         </div>
         <div class="section-opensource">
@@ -120,10 +129,10 @@
           <p class="quote">모든 사이드 프로젝트는 깃허브에서 확인할 수 있습니다.</p>
           <ul>
             <li>
-              Airbnb Reminder v1, v2 (Typescript) <a target="_blank" href="https://github.com/leejh3224/autobnb">링크</a>
+              Bitrush, 가상화폐 트레이딩봇 (Python) <a target="_blank" href="https://github.com/leejh3224/bitrush">링크</a>
             </li>
             <li>
-              Bitrush, 가상화폐 트레이딩봇 (Python) <a target="_blank" href="https://github.com/leejh3224/bitrush">링크</a>
+              Airbnb Reminder v1, v2 (Typescript) <a target="_blank" href="https://github.com/leejh3224/autobnb">링크</a>
             </li>
             <li>
              HelloTalk 클론 프로젝트 (React Native) <a target="_blank" href="https://github.com/leejh3224/react-native-hello-talk">링크</a>
@@ -231,9 +240,7 @@ export default {
   margin-top: 32px;
 }
 
-.section-work-experience {
-  margin-top: 40px;
-}
+.section-work-experience {}
 
 .section-work-experience > h3 {
   margin-bottom: 4px;
